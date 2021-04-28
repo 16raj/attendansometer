@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Apr, 2020, 7:47:40 PM
+    Author     : Windows
+*/
+  #topbar{
+             text-decoration: none;
+             width: 100%;
+             height: 80px;
+             background-color:  green;
+             position: fixed;
+             top: 0;
+             left: 0;
+            }
+            #body1{
+                margin:0px;
+                background-color: #FFFFFF;
+                background-image:url("../images/IMG_20200430_124706.jpg");
+                background-repeat: no-repeat;
+                background-size: 1370px, cover;
+            }
+            
+            #body2{
+             float:right; 
+              padding: 10px 40px;
+               margin:20px 40px;
+                  }
+                  .link{
+                   color: bisque;
+                   text-decoration: none;
+                   margin-right: 25px;
+                   text-transform: uppercase;
+                  }
+                  .link:hover{
+                      border: appworkspace solid thin;
+                  }
+                  #top1{
+                      color:red;
+                     float: left;
+                     padding:0px 40px;
+                  }
+                  .link:hover{
+                      color: goldenrod;
+                  }
+                  .link:visited{
+                      color: red;
+                  }
+                  #head1{
+                      font-size: 50px;
+                      color: goldenrod;
+                      margin-top: 300px;
+                     text-align: center;
+                  }
+                  #foot{
+                      margin-top: 1500px;
+                      background-color: green;
+                     height: 200px;
+                     width: 100%;
+                  }
+                  #head2{
+                      float: left;
+                      padding:50px 50px;
+                      color: red;
+                  }
+                  #head3{
+                      text-align: center;
+                      padding: 70px 50px;
+                      color: red;
+                  }
+                  
+                 
